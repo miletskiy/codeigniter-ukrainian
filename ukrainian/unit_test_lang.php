@@ -1,7 +1,7 @@
 <?php
 /* https://github.com/miletskiy/codeigniter-ukrainian.git */
 
-$lang['ut_test_name'] = 'Нажва тесту';
+$lang['ut_test_name'] = 'Назва тесту';
 $lang['ut_test_datatype'] = 'Тип даних тесту';
 $lang['ut_res_datatype'] = 'Очікуваний тип даних';
 $lang['ut_result'] = 'Результат';
