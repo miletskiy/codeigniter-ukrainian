@@ -1,2 +1,2 @@
-codeigniter-ukrainian
-=====================
+Codeigniter Ukrainian Language
+=============================
