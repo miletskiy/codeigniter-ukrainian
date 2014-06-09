@@ -1,22 +1,22 @@
 <?php
 /* https://github.com/miletskiy/codeigniter-ukrainian.git */
 
-$lang['upload_userfile_not_set']		= "Невозможно найти переменную с именем userfile в массиве POST.";
-$lang['upload_file_exceeds_limit']		= "Размер загружаемого файла превышает максимально допустимый размер, указанный в файле конфигурации PHP.";
-$lang['upload_file_exceeds_form_limit']	= "Размер загружаемого файла превышает максимально допустимый размер, указанный в отправленной форме.";
-$lang['upload_file_partial']			= "Загружаемый файл был получен только частично.";
-$lang['upload_no_temp_directory']		= "Директория для хранения временных файлов не существует.";
-$lang['upload_unable_to_write_file']	= "Не удалось записать файл на диск.";
-$lang['upload_stopped_by_extension']	= "Расширение PHP остановило загрузку файла.";
-$lang['upload_no_file_selected']		= "Необходимо выбрать файл для загрузки.";
-$lang['upload_invalid_filetype']		= "Загрузка файлов данного типа запрещена.";
-$lang['upload_invalid_filesize']		= "Размер загружаемого файла превышает максимально допустимый.";
-$lang['upload_invalid_dimensions']		= "Размеры загружаемого изображения превышают максимально допустимые.";
-$lang['upload_destination_error']		= "Невозможно перенести загруженный файл в директорию назначения.";
-$lang['upload_no_filepath']				= "Некорректная директория для загрузки.";
-$lang['upload_no_file_types']			= "Необходимо указать допустимые для загрузки типы файлов.";
-$lang['upload_bad_filename']			= "Файл с указанным именем уже существует на сервере.";
-$lang['upload_not_writable']			= "Директория для загрузки недоступна для записи.";
+$lang['upload_userfile_not_set']		= "Не знайдено змінну &quot;userfile&quot; в масиві POST.";
+$lang['upload_file_exceeds_limit']		= "Розмір файлу перевищує максимально допустимий розмір, вказаний у конфігурації PHP.";
+$lang['upload_file_exceeds_form_limit']	= "Розмір файлу перевищує максимально допустимий розмір, вказаний у відправленій формі.";
+$lang['upload_file_partial']			= "Файл завантажено частково.";
+$lang['upload_no_temp_directory']		= "Директорії для збереження тимчасових файлів не існує.";
+$lang['upload_unable_to_write_file']	= "Не вдалось записати файл на диск.";
+$lang['upload_stopped_by_extension']	= "PHP розширення зупинило завантаження файлу.";
+$lang['upload_no_file_selected']		= "Необхідно вибрати файл для завантаження.";
+$lang['upload_invalid_filetype']		= "Завантаження даного типу файлів заборнено.";
+$lang['upload_invalid_filesize']		= "Розмір файлу перевищує максимально допустимий.";
+$lang['upload_invalid_dimensions']		= "Розміри зображення перевищують максимально допустимі.";
+$lang['upload_destination_error']		= "Неможливо перенести файл до вказаної директорії.";
+$lang['upload_no_filepath']				= "Некоректна директорія для завантаження.";
+$lang['upload_no_file_types']			= "Не вказано допустимі для завантаження типи файлів.";
+$lang['upload_bad_filename']			= "Файл зі вказаним ім&#39;ям вже існує на сервері.";
+$lang['upload_not_writable']			= "Директорія для завантаження не доступна для запису.";
 
 /* End of file upload_lang.php */
 /* Location: ./system/language/ukrainian/upload_lang.php */

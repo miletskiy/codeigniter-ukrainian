@@ -1,23 +1,23 @@
 <?php
 /* https://github.com/miletskiy/codeigniter-ukrainian.git */
 
-$lang['email_must_be_array']			= 'В метод проверки адреса электронной почты должен быть передан массив.';
-$lang['email_invalid_address']			= 'Некорректный адрес электронной почты: %s';
-$lang['email_attachment_missing']		= 'Не удалось найти вложение: %s';
-$lang['email_attachment_unreadable']	= 'Невозможно открыть вложение: %s';
-$lang['email_no_recipients']			= 'Вы должны включить получателей: To, Cc или Bcc';
-$lang['email_send_failure_phpmail']		= 'Невозможно отправить электронную почту с помощью PHP mail(). Ваш сервер может быть не настроен для отправки почты с помощью этого метода.';
-$lang['email_send_failure_sendmail']	= 'Невозможно отправить электронную почту с помощью PHP Sendmail. Ваш сервер может быть не настроен для отправки почты с помощью этого метода.';
-$lang['email_send_failure_smtp']		= 'Невозможно отправить электронную почту с помощью PHP SMTP. Ваш сервер может быть не настроен для отправки почты с помощью этого метода.';
-$lang['email_sent']						= 'Ваше сообщение было успешно отправлено по следующему протоколу: %s';
-$lang['email_no_socket']				= 'Невозможно открыть сокет для Sendmail. Пожалуйста, проверьте настройки.';
-$lang['email_no_hostname']				= 'Вы не указали имя хоста SMTP.';
-$lang['email_smtp_error']				= 'Была обнаружена следующая ошибка SMTP: %s';
-$lang['email_no_smtp_unpw']				= 'Ошибка: Вы должны указать имя пользователя и пароль SMTP.';
-$lang['email_failed_smtp_login']		= 'Невозможно отправить команду AUTH LOGIN. Ошибка: %s';
-$lang['email_smtp_auth_un']				= 'Сбой при проверке имени пользователя. Ошибка: %s';
-$lang['email_smtp_auth_pw']				= 'Сбой при проверке пароля. Ошибка: %s';
-$lang['email_smtp_data_failure']		= 'Невозможно отправить данные: %s';
+$lang['email_must_be_array']			= 'В метод перевірки елктронної адреси необхідно передавати масив.';
+$lang['email_invalid_address']			= 'Некоректна електронна адреса: %s';
+$lang['email_attachment_missing']		= 'Не вдалося знайти файл для вкладення: %s';
+$lang['email_attachment_unreadable']	= 'Неможливо віжкрити файл для вкладення: %s';
+$lang['email_no_recipients']			= 'Необхідно додати адресатів: To, Cc або Bcc';
+$lang['email_send_failure_phpmail']		= 'Неможливо відправити пошту за домогою PHP mail(). Можливо, ваш сервер не налаштований для віправки пошти за допомогою цього методу.';
+$lang['email_send_failure_sendmail']	= 'Неможливо відправити пошту за домогою PHP Sendmail. Можливо, ваш сервер не налаштований для віправки пошти за допомогою цього методу.';
+$lang['email_send_failure_smtp']		= 'Неможливо відправити пошту за домогою PHP SMTP. Можливо, ваш сервер не налаштований для віправки пошти за допомогою цього методу.';
+$lang['email_sent']						= 'Повідомлення було успішно відправлено через наступний протокол: %s';
+$lang['email_no_socket']				= 'Неможливо відкрити сокет для Sendmail. Будь ласка, перевірте налаштування.';
+$lang['email_no_hostname']				= 'SMTP хост не вказано.';
+$lang['email_smtp_error']				= 'Помилка SMTP: %s';
+$lang['email_no_smtp_unpw']				= 'Помилка SMTP: не вказано і&#39;мя користувача або пароль SMTP.';
+$lang['email_failed_smtp_login']		= 'Помилка команди AUTH LOGIN: %s';
+$lang['email_smtp_auth_un']				= 'Помилка при перевірці і&#39;мя користувача: %s';
+$lang['email_smtp_auth_pw']				= 'Помилка при перевірці пароля: %s';
+$lang['email_smtp_data_failure']		= 'Неможливо відправити дані: %s';
 $lang['email_exit_status']				= 'Статус код: %s';
 
 /* End of file email_lang.php */

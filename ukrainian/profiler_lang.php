@@ -1,26 +1,26 @@
 <?php
 /* https://github.com/miletskiy/codeigniter-ukrainian.git */
 
-$lang['profiler_database']			= 'БАЗА ДАННЫХ';
-$lang['profiler_controller_info']	= 'КЛАСС/МЕТОД';
-$lang['profiler_benchmarks']		= 'КРИТЕРИИ';
-$lang['profiler_queries']			= 'ЗАПРОСЫ';
-$lang['profiler_get_data']			= 'GET ДАННЫЕ';
-$lang['profiler_post_data']			= 'POST ДАННЫЕ';
-$lang['profiler_uri_string']		= 'URI СТРОКА';
-$lang['profiler_memory_usage']		= 'ИСПОЛЬЗОВАНИЕ ПАМЯТИ';
-$lang['profiler_config']			= 'ПЕРЕМЕННЫЕ КОНФИГУРАЦИИ';
-$lang['profiler_session_data']		= 'SESSION ДАННЫЕ';
+$lang['profiler_database']			= 'БАЗА ДАНИХ';
+$lang['profiler_controller_info']	= 'КЛАС/МЕТОД';
+$lang['profiler_benchmarks']		= 'КРИТЕРІЇ';
+$lang['profiler_queries']			= 'SQL-ЗАПИТИ';
+$lang['profiler_get_data']			= 'GET ДАНІ';
+$lang['profiler_post_data']			= 'POST ДАНІ';
+$lang['profiler_uri_string']		= 'URI';
+$lang['profiler_memory_usage']		= 'ВИКОРИСТАННЯ ПАМ&#39;ЯТІ';
+$lang['profiler_config']			= 'ЗМІННІ КОНФІГУРАЦІЇ';
+$lang['profiler_session_data']		= 'SESSION ДАНІ';
 $lang['profiler_headers']			= 'HTTP ЗАГОЛОВКИ';
-$lang['profiler_no_db']				= 'Драйвер базы данных в данный момент не загружен';
-$lang['profiler_no_queries']		= 'Ни один запрос не был выполнен';
-$lang['profiler_no_post']			= 'Нет данных POST';
-$lang['profiler_no_get']			= 'Нет данных GET';
-$lang['profiler_no_uri']			= 'Нет данных URI';
-$lang['profiler_no_memory']			= 'Информация по использованию памяти недоступна';
-$lang['profiler_no_profiles']		= 'Нет данных для профилирования - все секции профайлера были отключены.';
-$lang['profiler_section_hide']		= 'Спрятать';
-$lang['profiler_section_show']		= 'Показать';
+$lang['profiler_no_db']				= 'Драйвер бази даних не завантажений';
+$lang['profiler_no_queries']		= 'Жодного SQL-запиту не виконано';
+$lang['profiler_no_post']			= 'Немає даних POST';
+$lang['profiler_no_get']			= 'Немає даних GET';
+$lang['profiler_no_uri']			= 'Немає даних URI';
+$lang['profiler_no_memory']			= 'Немає даних про використання пам&#39;яті';
+$lang['profiler_no_profiles']		= 'Немає даних для профілювання - усі секції вимкнені.';
+$lang['profiler_section_hide']		= 'Згорнути';
+$lang['profiler_section_show']		= 'Показати';
 
 /* End of file profiler_lang.php */
 /* Location: ./system/language/ukrainian/profiler_lang.php */
