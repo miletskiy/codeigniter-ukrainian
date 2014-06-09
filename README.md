@@ -2,7 +2,7 @@ Codeigniter Ukrainian Language
 ==============================
 
 Ukrainian language pack for CodeIgniter. 
-Can't find anything on the Internet - do it yourself :)
+Can't find something on the Internet - do it yourself :)
 
 Supported versions:
 -------------------
