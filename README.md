@@ -9,4 +9,4 @@ Supported versions:
 * 2.0.*
 * 2.1.*
 
-If you find a misspelling, feel free to contact me. Any feedback is very appreciated.
+If you find a misspelling or consider something to be wrong, feel free to contact me. Any feedback is very appreciated.
